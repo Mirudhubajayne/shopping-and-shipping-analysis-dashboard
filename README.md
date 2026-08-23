@@ -1,5 +1,5 @@
 # 🛒  shopping-and-shipping-analysis-dashboard
-![Dashboard Preview](Screenshots/dashboard.png)
+![Dashboard Preview](Screenshot 2026-08-23 090339.png)
 
 An interactive and comprehensive "Excel Dashboard" designed to analyze customer purchasing patterns, category-wise performance, seasonal trends, and demographic breakdown.
 
